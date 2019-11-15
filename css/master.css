@@ -1,0 +1,99 @@
+body{
+  width: 100%;
+}
+section {
+  min-height: 80vh;
+}
+
+.presentation {
+  background: url('images/greek.jpg') no-repeat top center;
+  background-size: cover;
+}
+.presentation h1{
+  text-align: center;
+  padding-top: 30vh;
+  background-color: rgba(255, 255, 255, 0.4);
+  padding-bottom: 40vh;
+  }
+
+.img-container1{
+  background: url('images/feathers.jpg') no-repeat top center;
+  background-size: cover;
+  display: flex;
+}
+
+.text-container1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 90px;
+  max-width: 550px;
+  background: rgba(0, 0, 0, 0.6);
+
+}
+.img-container1 img{
+  max-height: 15vh;
+  margin-top: 20px;
+}
+
+
+
+.img-container2{
+  background: url('images/mask.jpg')no-repeat center;
+  background-size: cover;
+  display: flex;
+}
+
+.text-container2 p{
+  text-align: justify;
+margin-left: 80px;
+max-width: 350px;
+background: rgba(220, 220, 220, 0.7);
+padding-right: 50px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+.text-container2 h3{
+  text-align: left;
+margin-left: 80px;
+margin-top: 100px;
+max-width: 400px;
+padding-bottom: 40px;
+background: rgba(220, 220, 220, 0.7);
+}
+
+.text-container2 h1{
+  margin-left: 350px;
+  margin-top: -10px;
+  padding-bottom: 100px;
+}
+
+
+
+.img-container3 {
+  background: url('images/hercules.jpg')no-repeat top center;
+  background-size: cover;
+}
+
+.text-container3 h1{
+  padding-top: 100px;
+  text-align: center;
+  max-width: 80vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-container3 p{
+  background: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  max-width: 80vh;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  }
+
+.text-container3 h6{
+  text-align: right;
+  margin-right: 20px;
+}

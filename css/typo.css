@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Rufina&display=swap');
+
+.presentation h1{
+  font-family: 'Rufina', serif;
+font-size: 50pt;
+  }
+
+.img-container1 p {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  text-align: center;
+  font-size: 10pt;
+  line-height: 2;
+}
+
+.img-container1 h1{
+font-family: 'Rufina', serif;
+  color: white;
+  font-size: 20pt;
+}
+
+.img-container1 h2{
+  color: white;
+  font-family: 'Rufina', serif;
+  font-size: 11pt;
+  padding-top: 10px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+
+.text-container2 h3{
+  color : #997300;
+  font-family: 'Didot' bold;
+  font-size: 50pt;
+  text-align: justify;
+  margin-bottom: 50px;
+  border-bottom: 2px solid #997300;
+}
+
+.text-container2 p{
+  text-align: justify;
+color: #003c41;
+font-family: 'Helvetica', sans-serif;
+font-size: 12pt;
+line-height: normal;
+margin-top: -16px;
+}
+
+.text-container2 h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 17pt;
+  color: #997300;
+
+}
+
+.text-container3 h1{
+font-family: 'Rockwell', sans-serif;
+font-size: 40pt;
+color: #FFE900;
+font-weight: Bold;
+}
+
+.text-container3 p{
+  font-family: 'Gotham',sans-serif;
+  font-size: 16pt;
+  margin-top: -22px;
+}
+
+.text-container3 h6 {
+  font-family: 'Rockwell', sans-serif;
+  color: #FFE900;
+  font-size: 20pt;
+  }
